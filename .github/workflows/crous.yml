@@ -26,6 +26,6 @@ jobs:
           playwright install chromium
 
       - name: Run script
-        run: python monitor.py
+        run: python monitor2.py
       - name: Run script
-        run: python monitor.py
+        run: python monitor2.py
