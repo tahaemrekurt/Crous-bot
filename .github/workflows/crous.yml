@@ -28,4 +28,4 @@ jobs:
       - name: Run script
         run: python monitor.py
       - name: Run script
-        run: python monitor2.py
+        run: python monitor.py
